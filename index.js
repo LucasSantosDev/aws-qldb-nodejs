@@ -1,7 +1,3 @@
-// https://docs.aws.amazon.com/qldb/latest/developerguide/driver-cookbook-nodejs.html#cookbook-nodejs.crud.inserting
-// https://codestax.medium.com/getting-started-with-aws-quantum-ledger-database-418b52aadbeb
-// select * FROM history(exampleTable)
-
 const qldb = require("amazon-qldb-driver-nodejs");
 
 // creating a connection with a ledger
