@@ -3,7 +3,6 @@
 > Assista esse video para entender como usar o QLDB:
 
 [![AWS Summit SP 2022](https://img.youtube.com/vi/4liVGyLghT4/0.jpg)](https://www.youtube.com/watch?v=4liVGyLghT4)
-<source src="https://www.youtube.com/watch?v=4liVGyLghT4" type="video/mp4">
 
 ---
 
