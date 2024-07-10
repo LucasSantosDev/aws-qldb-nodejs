@@ -1,0 +1,13 @@
+{
+  "name": "aws-qldb-nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "deploy-cli": "zip -r lambda.zip ./ && aws lambda update-function-code --function-name ledgerExample --zip-file fileb://lambda.zip"
+  },
+  "dependencies": {
+    "amazon-qldb-driver-nodejs": "^3.1.0",
+    "aws-sdk": "^2.1656.0"
+  }
+}
