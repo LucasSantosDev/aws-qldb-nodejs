@@ -1,8 +1,8 @@
 ## QLDB + Node.JS
 
-<img src="https://newrelic.com/sites/default/files/quickstarts/images/icons/aws-qldb--logo.svg" alt="Logo do QLDB" width="180px" />
+<img src="https://newrelic.com/sites/default/files/quickstarts/images/icons/aws-qldb--logo.svg" alt="Logo do QLDB" width="100px" />
 
-<img src="https://i.pinimg.com/originals/cd/12/12/cd1212c949eb07ebdd18db8f8cbb350b.png" alt="Logo do Node.JS" width="180px" />
+<img src="https://i.pinimg.com/originals/cd/12/12/cd1212c949eb07ebdd18db8f8cbb350b.png" alt="Logo do Node.JS" width="100px" />
 
 <br />
 
