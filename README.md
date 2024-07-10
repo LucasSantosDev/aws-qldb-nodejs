@@ -7,6 +7,60 @@
 
 ---
 
+### Example response lambda
+
+```json
+{
+  "statusCode": 200,
+  "body": {
+    "message": "QLDB operations completed successfully!",
+    "data": [
+      { "FirstName": "Lucas 0.9036597422764843", "LastName": "Santos" },
+      { "LastName": "Santos", "FirstName": "Lucas atualizado" },
+      { "FirstName": "Lucas 0.9407893008807109", "LastName": "Santos" },
+      { "FirstName": "Lucas 0.7275625410495878", "LastName": "Santos" },
+      { "FirstName": "Lucas", "LastName": "Santos" },
+      { "FirstName": "Lucas 0.8778286409511125", "LastName": "Santos" }
+    ],
+    "history": [
+      {
+        "blockAddress": {
+          "strandId": "EQGFfMfB3y8CqSnF1pOwMH",
+          "sequenceNo": 181
+        },
+        "hash": "r2PhdRoq5YJLZOElnhWKV5PZGYHDgUjuu/bKjTN3TqY=",
+        "data": {
+          "FirstName": "Lucas 0.9813905700931809",
+          "LastName": "Santos"
+        },
+        "metadata": {
+          "id": "77oAJTfS5FoJcntEtnjg4T",
+          "version": 0,
+          "txTime": "2024-07-09T19:47:45.264Z",
+          "txId": "543Zn2RJH9A5cIcjqLZCtt"
+        }
+      },
+      {
+        "blockAddress": {
+          "strandId": "EQGFfMfB3y8CqSnF1pOwMH",
+          "sequenceNo": 203
+        },
+        "hash": "BIYwLEk1VEqLLaBrH5iKm4bI/7tIIHEsMJUyxGRiUPw=",
+        "data": { "LastName": "Santos", "FirstName": "Lucas atualizado" },
+        "metadata": {
+          "id": "77oAJTfS5FoJcntEtnjg4T",
+          "version": 1,
+          "txTime": "2024-07-09T19:56:43.830Z",
+          "txId": "BVHPvPXLaftI8owHCQccrY"
+        }
+      }
+    ]
+  }
+}
+```
+
+---
+
 #### Links úteis:
 
 > Artigo de como usar o QLDB com nodejs
