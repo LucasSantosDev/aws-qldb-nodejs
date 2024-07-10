@@ -2,7 +2,9 @@
 
 > Assista esse video para entender como usar o QLDB:
 
-<video src="https://www.youtube.com/watch?v=4liVGyLghT4" width="180" />
+<iframe width="420" height="315"
+src="https://www.youtube.com/watch?v=4liVGyLghT4">
+</iframe>
 
 ---
 
