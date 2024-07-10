@@ -1,4 +1,4 @@
-## QLDB
+## QLDB + Node.JS
 
 > Assista esse video para entender como usar o QLDB:
 
